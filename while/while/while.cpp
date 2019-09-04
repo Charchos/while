@@ -7,11 +7,5 @@ using namespace std;
 
 int main()
 {
-	int i = 0;
-	while (i <= 10)
-	{
-		cout << "Soy la variable i, mi valor es :" << i << endl;
-		i++;
-	}
-	return 0;
+	int num = 1, cont 
 }
